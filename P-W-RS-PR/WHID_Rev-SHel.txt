@@ -1,3 +1,7 @@
+Rem: ------------------------------------------------------
+Rem: this payload is build for a azerty keyboard on weid software implementations
+Rem: ------------------------------------------------------
+
 Rem: open run panel
 Press:131+114
 Print:Powershell
